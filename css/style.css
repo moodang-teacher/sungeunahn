@@ -460,10 +460,6 @@ section {
     width: 92%;
 }
 
-.web-carousel {
-    /* overflow: visible; */
-}
-
 .web-carousel .swiper-slide {
     /* border: 5px solid #eee; */
     transform: scale(0.7); /* web 가운데 화면 키우기 */
@@ -1154,7 +1150,7 @@ section {
 }
 
 .butterflypt2 {
-    transform: rotate(0gideg);
+    transform: rotate(0 deg);
 }
 
 .page-thankyou h1 {
