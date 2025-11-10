@@ -1150,11 +1150,11 @@ section {
 }
 
 .butterflypt1 {
-    transform: rotate(353deg);
+    transform: rotate(0deg);
 }
 
 .butterflypt2 {
-    transform: rotate(353deg);
+    transform: rotate(0gideg);
 }
 
 .page-thankyou h1 {
