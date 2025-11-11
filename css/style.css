@@ -223,15 +223,15 @@ section {
 
 .ahn-wrap {
     position: absolute;
-    top: 345px;
+    top: 323px;
     right: 143px;
     /* border: 1px solid #0f0; */
 }
 
 .ahn-wrap h1 {
     font-weight: 400;
-    font-size: 15px;
-    color: #c9c9c9;
+    font-size: 29px;
+    color: #fff;
 }
 .ahn-wrap h2 {
     font-weight: 500;
@@ -243,7 +243,7 @@ section {
 }
 .ahn-wrap p {
     font-size: 15px;
-    color: #c9c9c9;
+    color: #fff;
     text-align: right;
 }
 
